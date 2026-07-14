@@ -5,8 +5,8 @@
 - [x] Made GitHub account
 - [x] Started freeCodeCamp - Basic JavaScript module
 - [x] Finish Basic JavaScript (variables, strings, arrays, functions, loops)
-- [ ] Learn Git & GitHub basics
+- [x] Learn Git & GitHub basics
 
 ## Week 2
-- [ ] Continue JS fundamentals
+- [x] Continue JS fundamentals
 - [ ] How the web works (MDN)
