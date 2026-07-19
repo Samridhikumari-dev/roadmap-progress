@@ -9,4 +9,11 @@
 
 ## Week 2
 - [x] Continue JS fundamentals
-- [ ] How the web works (MDN)
+- [x] How the web works (MDN)
+- [x] command line basics(freeCodeCamp)
+- [ ] prompting concepts (Anthropic's guide)
+
+## Week 3 
+- [ ] working on basic logic scripts
+
+
