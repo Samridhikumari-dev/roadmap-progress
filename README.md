@@ -16,4 +16,8 @@
 ## Week 3 
 - [ ] working on basic logic scripts
 
+## Week 4
+- [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
+
+
 
