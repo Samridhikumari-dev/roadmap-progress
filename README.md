@@ -11,7 +11,7 @@
 - [x] Continue JS fundamentals
 - [x] How the web works (MDN)
 - [x] command line basics(freeCodeCamp)
-- [ ] prompting concepts (Anthropic's guide)
+- [x] prompting concepts (Anthropic's guide)
 
 ## Week 3 
 - [ ] working on basic logic scripts
