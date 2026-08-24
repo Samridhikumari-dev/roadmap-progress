@@ -19,8 +19,16 @@
 [month 2]
 ## Week 4
 - [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
-- [ ] learning html through love babbar and reading
-- [ ] older topics revision..
+- [X] learning html through love babbar 
+- [ ] basic project building
+- [ ] older topics revision.
+
+ ## Week 5  
+- [ ] 
+- [ ] 
+
+ 
+
       
 
 
