@@ -1,5 +1,5 @@
 # My Roadmap Progress
-[month 1]
+## [month 1]
 ## Week 1
 - [x] Picked JavaScript as my language
 - [x] Made GitHub account
@@ -16,7 +16,7 @@
 ## Week 3 
 - [x] working on basic logic scripts
 
-[month 2]
+## [month 2]
 
 ## Week 1 and Week2
 - [X] learning HTML through love babbar.
@@ -26,7 +26,7 @@
       
 - [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
 
- [month 3]      
+ ## [month 3]      
       
 .
 
