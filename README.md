@@ -17,16 +17,20 @@
 - [x] working on basic logic scripts
 
 [month 2]
-## Week 4
+
+## Week 1 and Week2
+- [X] learning HTML through love babbar.
+
+## Week 3
+- [ ] learning CSS through love babbar.
+      
 - [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
-- [X] learning html through love babbar 
-- [ ] basic project building
-- [ ] older topics revision.
 
- ## Week 5  
-- [ ] 
-- [ ] 
+ [month 3]      
+      
+.
 
+ 
  
 
       
