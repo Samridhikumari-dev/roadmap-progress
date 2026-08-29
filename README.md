@@ -23,11 +23,13 @@
 
 ## Week 3
 - [ ] learning CSS through love babbar.
-      
-- [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
- 
+- [ ] learning pattern printing in java
 
- ## [month 3]      
+ 
+ ## [month 3]  
+
+ ## Week 1
+ - [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
       
 .
 
