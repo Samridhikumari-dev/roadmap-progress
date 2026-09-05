@@ -23,7 +23,7 @@
 
 ## Week 3
 - [ ] learning CSS through love babbar.
-- [ ] learning pattern printing in java
+- [x] learning pattern printing in java
 
  
  ## [month 3]  
