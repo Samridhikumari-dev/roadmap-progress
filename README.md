@@ -27,7 +27,7 @@
 
  
  ## [month 3]  
-            [college exams]
+ - college exams other engagements
 
  ## [month 4]  
  - [ ] Basics of SQL
