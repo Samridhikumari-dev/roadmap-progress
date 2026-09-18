@@ -22,15 +22,15 @@
 - [X] learning HTML through love babbar.
 
 ## Week 3
-- [ ] learning CSS through love babbar.
+- [x] learning CSS through love babbar.
 - [x] learning pattern printing in java
 
  
  ## [month 3]  
+            [college exams]
 
- ## Week 1
- - [ ] HTML5 + CSS3 (The Odin Project – Foundations + MDN Web Docs)
-      
+ ## [month 4]  
+ - [ ] Basics of SQL
 .
 
  
